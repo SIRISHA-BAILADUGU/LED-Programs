@@ -1,7 +1,7 @@
 # 3-Led 2-Switch
 
 ## Simulation
-<img src="https://ibb.co/GppBmFG" alt="Screenshot-38" border="0">
+<img src="https://i.ibb.co/SyyWSJH/Screenshot-42.png" alt="Screenshot-42" border="0">
   
   ## Output
   
